@@ -1,0 +1,16 @@
+Package: greetings
+Title: Displays a greeting plot
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Stephanie",
+           family = "Hicks",
+           role = c("aut", "cre"),
+           email = "shicks19@jhu.edu", 
+           comment = c(ORCID = "0000-0002-5682-5998"))
+Description: This package displays a nice greeting for a custom name.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    ggplot2
