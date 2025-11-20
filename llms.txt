@@ -1,0 +1,28 @@
+# greetings
+
+The goal of greetings is to …
+
+## Installation
+
+You can install the development version of greetings like so:
+
+``` r
+# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(greetings)
+hello("Stephanie")
+```
+
+# Package index
+
+## All functions
+
+- [`hello()`](http://www.stephaniehicks.com/greetings/reference/hello.md)
+  : Print a Greeting
+
